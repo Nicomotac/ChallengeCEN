@@ -255,22 +255,6 @@ h2 {
       text-align: right;
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #chatbot-icon {
   position: fixed;
   bottom: 20px;
@@ -303,4 +287,12 @@ h2 {
 }
 #chatbot-icon:hover {
   background-color: #0056b3;
+}
+
+footer {
+  background-color: #5166a1;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 30px;
 }
